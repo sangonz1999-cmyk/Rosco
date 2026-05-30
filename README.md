@@ -1,5 +1,5 @@
 
-Sigue estos pasos en esa computadora (La primera vez):
+***Sigue estos pasos en esa computadora (La primera vez):***
 
 	Entra a la carpeta:
 
@@ -18,7 +18,7 @@ Sigue estos pasos en esa computadora (La primera vez):
 		git pull origin main
 
 
-El ciclo de vida diario (Lo que harás siempre)
+***El ciclo de vida diario (Lo que harás siempre)***
 
 
 
@@ -40,7 +40,7 @@ El ciclo de vida diario (Lo que harás siempre)
 
 			git push .
 
-En la otra computadora (antes de empezar a trabajar):
+***En la otra computadora (antes de empezar a trabajar):***
 
 	Para descargar automáticamente esos cambios desde la nube
 
