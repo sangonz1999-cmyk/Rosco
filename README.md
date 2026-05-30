@@ -1,6 +1,5 @@
-=================================================================================
-	Sigue estos pasos en esa computadora (La primera vez):
-=================================================================================
+
+Sigue estos pasos en esa computadora (La primera vez):
 
 	Entra a la carpeta:
 
@@ -19,28 +18,27 @@
 		git pull origin main
 
 
-=================================================================================
-	El ciclo de vida diario (Lo que harás siempre)
-================================================================================
+El ciclo de vida diario (Lo que harás siempre)
 
 
-En la computadora donde editaste:
 
-	Entra a la carpeta:
+	En la computadora donde editaste:
 
-		cd C:\Ruta\A\Tu\Carpeta\Rosco
+		Entra a la carpeta:
 
-	Para incluir todos los cambios que hiciste
+			cd C:\Ruta\A\Tu\Carpeta\Rosco
 
-		git add .
+		Para incluir todos los cambios que hiciste
 
-	Ej: "Agregué una pregunta nueva"
+			git add .
 
-		git commit -m "Nueva versión"
+		Ej: "Agregué una pregunta nueva"
 
-	Para enviar el cambio a la nube
+			git commit -m "Nueva versión"
 
-		git push .
+		Para enviar el cambio a la nube
+
+			git push .
 
 En la otra computadora (antes de empezar a trabajar):
 
