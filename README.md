@@ -38,7 +38,7 @@
 
 		Para enviar el cambio a la nube
 
-			git push .
+			git push origin master
 
 ***En la otra computadora (antes de empezar a trabajar):***
 
